@@ -13,15 +13,21 @@ steps.
 
 #. The course team uploads a file on the **Files & Uploads** page in Studio.
 #. Studio generates two URLs for the file.
+
    * The Studio URL is used to add the file inside the course, such as in a
      component or on a page.
+
    * The web URL is used to add the file outside the course, such as in an
      email message or external web page.
+
 #. The course team adds a link to the file inside or outside the course.
+
    * To add the file inside the course, the course team adds the Studio URL in
      the course content, such as in a component or on a page.
+
    * To add the file outside the course, the course team adds the web URL in
      an email message or external web page.
+
 #. The file is visible in the course, email, or external web page.
 
 For more information, see the following topics.
