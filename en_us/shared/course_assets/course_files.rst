@@ -11,10 +11,17 @@ steps.
  :alt: A workflow diagram showing the steps to add and show a file in a course
      or on the internet.
 
-#. The course team uploads the files on the **Files & Uploads** page in Studio.
-#. Studio generates URLs for the files.
-#. The course team adds a link to the file's URL in the course content, such as
-   inside a component, or in an email or external web page.
+#. The course team uploads a file on the **Files & Uploads** page in Studio.
+#. Studio generates two URLs for the file.
+   * The Studio URL is used to add the file inside the course, such as in a
+     component or on a page.
+   * The web URL is used to add the file outside the course, such as in an
+     email message or external web page.
+#. The course team adds a link to the file inside or outside the course.
+   * To add the file inside the course, the course team adds the Studio URL in
+     the course content, such as in a component or on a page.
+   * To add the file outside the course, the course team adds the web URL in
+     an email message or external web page.
 #. The file is visible in the course, email, or external web page.
 
 For more information, see the following topics.
@@ -34,7 +41,8 @@ Uploads** page. This page lists the files that you upload, along with the
 following information about the files.
 
 * The file name.
-* A preview of the file (if the file is an image).
+* A preview of the file (if the file is an image) or an icon that represents
+  the file.
 * The file type.
 * The date the file was added.
 * The URLs that you use to make your files visible in your course or on the
@@ -111,21 +119,44 @@ content.
   your course can access the file. For more information, see :ref:`Lock a
   File`.
 
-* To add a file or image to a component, a course update, or a course handout,
-  use the Studio URL.
+.. _Add a File or Image Inside the Course:
 
-  For more information, see :ref:`Add an Image to an HTML Component`.
+=====================================
+Add a File or Image Inside the Course
+=====================================
 
-* To provide a link to the file or image from outside the course, including in
-  a bulk email message that you send from the LMS, use the web URL.
+To add a file or image inside the course, such as to a component, a course
+update, or a course handout, follow these steps.
 
+#. On the **Files & Uploads** page, select the **Studio** option in the
+   **Copy URLs** column.
+
+   The **Studio** option text briefly changes to **Copied**.
+
+#. In the component or other content, paste the Studio URL.
+
+For more information, see :ref:`Add an Image to an HTML Component`.
+
+.. _Add a File or Image Outside the Course:
+
+======================================
+Add a File or Image Outside the Course
+======================================
+
+To add a file or image outside the course, such as to a bulk email message that
+you send from the LMS, follow these steps.
+
+#. On the **Files & Uploads** page, select the **Web** option in the
+   **Copy URLs** column.
+
+   The **Web** option text briefly changes to **Copied**.
+
+#. In the external content, paste the web URL.
+
+.. note::
   Be sure that you do not use the Studio URL in an email message. For more
   information about sending email messages, see
   :ref:`Send_Bulk_Email`.
-
-To copy a URL from the file list, select the **Studio** or **Web** option in
-the **Copy URLs** column. The **Studio** or **Web** option briefly changes to
-"Copied" when the operation is complete.
 
 .. _Sort Files:
 
