@@ -77,33 +77,33 @@ course. Instead, use another hosting service to host these files.
 .. _Upload a File:
 
 *******************
-Upload a File
+Upload Files
 *******************
 
 .. note::
   Ensure that you obtain copyright permissions for files and images you upload
   to your course, and that you cite sources appropriately.
 
-To upload a file, follow these steps.
+To upload one or more files, follow these steps.
 
-#. Create or locate the file on your computer.
+#. Create or locate the files on your computer.
 
    .. note::
-     When Studio generates URLs for uploaded files, the file name becomes part
-     of the URL and is visible to students when they access the file. Avoid
-     using file names that contain information that you do not want to share
-     about the file contents, such as "Answerkey.pdf".
+     When Studio generates URLs for an uploaded file, the file name becomes
+     part of the URL and is visible to students when they access the file.
+     Avoid using file names that contain information that you do not want to
+     share about the file contents, such as "Answerkey.pdf".
 
 #. On the **Content** menu, select **Files & Uploads**.
 
-#. On the **Files & Uploads** page, drag your file into the **Drag and Drop**
-   area.
+#. On the **Files & Uploads** page, drag your file or files into the **Drag and
+   Drop** area.
 
    .. note::
      If you upload a file that has the same name as an existing course file,
      the original file is overwritten without warning.
 
-The **Files & Uploads** page refreshes to show the uploaded file.
+The **Files & Uploads** page refreshes to show the uploaded file or files.
 
 To upload additional files, drag more files into the **Drag and Drop** area of
 the page.
